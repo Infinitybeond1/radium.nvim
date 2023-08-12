@@ -3,7 +3,7 @@ local M = {}
 local function get_radium()
   return {
     background = "#161B20",
-    contrast = '#24292E',
+    contrast = '#2E3645',
     statusline_bg = '#24292E',
     lighter = '#515C68',
     foreground = "#D4D4D5",
