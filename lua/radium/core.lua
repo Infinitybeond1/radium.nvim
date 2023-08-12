@@ -5,7 +5,7 @@ local function get_radium()
     background = "#161B20",
     contrast = '#24292E',
     statusline_bg = '#24292E',
-    lighter = '#181c24',
+    lighter = '#515C68',
     foreground = "#D4D4D5",
     cursorline = '#161b20',
     comments = '#515C68',
